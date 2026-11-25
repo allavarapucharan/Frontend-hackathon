@@ -1,8 +1,8 @@
-# Divya charan— Personal Portfolio Website
+# Divya Charan — Personal Portfolio Website
 
 A high-performance single-page personal portfolio engineered with a zero-bloat philosophy, light theme aesthetics, and native web standards.
 
-**Owner**: Dheeraj  
+**Owner**: Divya Charan
 **Role**: Computer Science Student | Developer | Technology Enthusiast  
 **Education**: B.Tech Computer Science and Engineering, KL University (2025–2029)  
 **Location**: Vijayawada, Andhra Pradesh, India  
