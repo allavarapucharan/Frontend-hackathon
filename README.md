@@ -1,4 +1,4 @@
-# Dheeraj — Personal Portfolio Website
+# Divya charan— Personal Portfolio Website
 
 A high-performance single-page personal portfolio engineered with a zero-bloat philosophy, light theme aesthetics, and native web standards.
 
